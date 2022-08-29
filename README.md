@@ -3,8 +3,8 @@
 > Project to create a school database using RUBY
 ## Authors
 👤 **David Verde**
-- GitHub: [@omarramoun](https://github.com/David-Verde)
-- Twitter: [@omarramoun](https://twitter.com/UnyieldingOne)
+- GitHub: [@David-Verde](https://github.com/David-Verde)
+- Twitter: [@Uyielding1](https://twitter.com/UnyieldingOne)
 - LinkedIn: [david-verde-alvarez](https://www.linkedin.com/in/david-verde-alvarez/)
 ## Built With
 - Ruby
