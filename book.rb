@@ -1,4 +1,3 @@
-
 require './rental'
 
 class Book
